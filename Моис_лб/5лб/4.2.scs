@@ -1,0 +1,20 @@
+graf => nrel_main_idtf:[граф](*<-lang_ru;;*);;
+graf<-sc_node_not_relation;;
+
+chislo => nrel_main_idtf:[число](*<-lang_ru;;*);;
+chislo<-sc_node_not_relation;;
+
+kolvovershingrafa => nrel_main_idtf:[количество вершин графа*](*<-lang_ru;;*);;
+kolvovershingrafa<-sc_node_norole_relation;;
+
+bolsheiliravno => nrel_main_idtf:[больше или равно*](*<-lang_ru;;*);;
+bolsheiliravno<-sc_node_norole_relation;;
+
+vershinagrafa => nrel_main_idtf:[вершина графа'](*<-lang_ru;;*);;
+vershinagrafa<-sc_node_role_relation;;
+
+stepen => nrel_main_idtf:[степень*](*<-lang_ru;;*);;
+stepen<-sc_node_norole_relation;;
+
+ravenstvo => nrel_main_idtf:[равенство*](*<-lang_ru;;*);;
+ravenstvo<-sc_node_norole_relation;;

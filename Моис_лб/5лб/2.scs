@@ -1,0 +1,16 @@
+modul => nrel_main_idtf:[модульный рейтинг*](*<-lang_ru;;*);;
+zachet => nrel_main_idtf:[зачет*](*<-lang_ru;;*);;
+exam => nrel_main_idtf:[экзамен*](*<-lang_ru;;*);;
+
+modul<-sc_node_norole_relation;;
+zachet<-sc_node_norole_relation;;
+exam<-sc_node_norole_relation;;
+
+ydovl => nrel_main_idtf:[Удовлетварительно](*<-lang_ru;;*);;
+ocenka => nrel_main_idtf:[оценка](*<-lang_ru;;*);;
+yspevaemost => nrel_main_idtf:[успеваемость](*<-lang_ru;;*);;
+
+ocenka<-sc_node_not_relation;;
+yspevaemost<-sc_node_not_relation;;
+
+

@@ -1,0 +1,27 @@
+concept_academic_progress
+
+<-sc_node_not_relation;
+
+=>nrel_main_idtf:[академическая успеваемость](*<-lang_ru;;*);
+
+=>nrel_idtf:[учебные достижения](*<-lang_ru;;*);
+=>nrel_idtf:[academic progress](*<-lang_en;;*);
+
+<-rrel_key_sc_element:...(*
+			    <-sc_definition;;
+			    <=nrel_sc_text_translation:...(*->[Академической успеваемостью называется степень успешности учебных занятий](*<-lang_ru;;*);;
+							   *);;
+   			    =>nrel_idtf:[Опр.(академическая успеваемость)](*<-lang_ru;;*);;
+			    <=nrel_using_constants:{modul;zachet;exam};;
+			 *);
+
+->rrel_example:ydovl(*<-ocenka;;*);
+<=prinadleshit:yspevaemost;
+
+<-rrel_key_sc_element:...(*
+			    <-statement;;
+			    =>nrel_main_idtf:[Утв.(зачет*,экзамен*)](*<-lang_ru;;*);;
+			    <=nrel_sc_text_translation:...(*->[Академическая успеваемость - успешная сдача всех зачетов и экзаменов.](*<-lang_ru;;*);;
+							  *);;
+			  *);;
+							     

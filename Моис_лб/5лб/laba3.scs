@@ -1,0 +1,44 @@
+nrel_exam
+
+<-sc_node_norole_relation;
+
+=>nrel_main_idtf:[экзамен*](*<-lang_ru;;*);
+=>nrel_main_idtf:[exam*](*<-lang_en;;*);
+
+=>nrel_idtf:[сложный экзамен*](*<-lang_ru;;*);
+
+=>nrel_first_domain:predmet;
+=>nrel_second_domain:student;
+
+=>nrel_definitional_domain:...(*
+				<=nrel_combination:{predmet;student};;
+			      *);
+
+=>arnostotn:2(*<-chislo;;*);
+
+<-antireflexive_relation(*
+			   <=prinadleshit:binary_relation(*
+							   =>prinadleshit:antisymmetric_relation(*->nrel_exam;;*);;
+							   =>prinadleshit:antitransitive_relation(*->nrel_exam;;*);;
+							   <=prinadleshit:otnoshenie(*=>prinadleshit:oriented_relation(*->nrel_exam;;*);;*);;
+							  *);;
+			*);
+
+<-rrel_key_sc_element:...(*
+			    <-sc_definition;;
+			    <=nrel_sc_text_translation:...(*->[Экзаменом называется итоговая форма оценки знаний](*<-lang_ru;;*);;
+							   *);;
+   			    =>nrel_idtf:[Опр.(экзамен*)](*<-lang_ru;;*);;
+			    <=nrel_using_constants:{ocenka;znaniya};;
+			 *);
+
+<-rrel_key_sc_element:...(*
+			    <-statement;;
+			    =>nrel_main_idtf:[Утв.(оценка,экзамен*,знания)](*<-lang_ru;;*);;
+			    <=nrel_sc_text_translation:...(*->[Результатом сдачи экзамена на отлично является оценка 9 или 10.](*<-lang_ru;;*);;
+							  *);;
+			  *);
+
+->rrel_example:(matem=>egor);;
+matem<-predmet;;
+egor<-student;;

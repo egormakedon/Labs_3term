@@ -1,0 +1,5 @@
+﻿  main.cpp
+d:\универ\лб\ппвис_лб\3лб\consoleapplication1\consoleapplication1\world.h(73): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+d:\универ\лб\ппвис_лб\3лб\consoleapplication1\consoleapplication1\world.h(90): warning C4244: аргумент: преобразование "time_t" в "unsigned int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Универ\ЛБ\ППвИС_лб\3лб\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\Универ\ЛБ\ППвИС_лб\3лб\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

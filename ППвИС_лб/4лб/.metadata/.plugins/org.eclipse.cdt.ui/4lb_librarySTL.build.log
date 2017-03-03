@@ -1,0 +1,125 @@
+20:37:02 **** Incremental Build of configuration Debug for project 4lb_librarySTL ****
+make all 
+Building file: ../src/4lb_librarySTL.cpp
+Invoking: Cross G++ Compiler
+g++ -O0 -g3 -Wall -c -fmessage-length=0 -MMD -MP -MF"src/4lb_librarySTL.d" -MT"src/4lb_librarySTL.o" -o "src/4lb_librarySTL.o" "../src/4lb_librarySTL.cpp"
+../src/4lb_librarySTL.cpp:9:15: warning: class ‘Graf<T>’ is implicitly friends with itself
+  friend class Graf <T>;
+               ^
+../src/4lb_librarySTL.cpp: In instantiation of ‘int Graf<T>::addvertex(T) [with T = int]’:
+../src/4lb_librarySTL.cpp:107:48:   required from here
+../src/4lb_librarySTL.cpp:162:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0;i<graf.size();i++)
+                ^
+../src/4lb_librarySTL.cpp:167:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int j=1;j<graf[i].size();j++)
+                 ^
+../src/4lb_librarySTL.cpp: In instantiation of ‘int Graf<T>::addedge(T, T) [with T = int]’:
+../src/4lb_librarySTL.cpp:108:55:   required from here
+../src/4lb_librarySTL.cpp:189:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0;i<graf.size();i++)
+                ^
+../src/4lb_librarySTL.cpp:194:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int j=1;j<graf[i].size();j++)
+                 ^
+../src/4lb_librarySTL.cpp:204:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int i=0;i<graf.size();i++)
+                 ^
+../src/4lb_librarySTL.cpp:209:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for (int j=1;j<graf[i].size();j++)
+                  ^
+../src/4lb_librarySTL.cpp:214:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int j=1; j<graf[i].size();j++)
+                    ^
+../src/4lb_librarySTL.cpp: In instantiation of ‘int Graf<T>::findvertex(T) [with T = int]’:
+../src/4lb_librarySTL.cpp:109:49:   required from here
+../src/4lb_librarySTL.cpp:232:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0;i<graf.size();i++)
+                ^
+../src/4lb_librarySTL.cpp:237:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int j=1;j<graf[i].size();j++)
+                 ^
+../src/4lb_librarySTL.cpp: In instantiation of ‘int Graf<T>::findedge(T, T) [with T = int]’:
+../src/4lb_librarySTL.cpp:110:56:   required from here
+../src/4lb_librarySTL.cpp:257:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0;i<graf.size();i++)
+                ^
+../src/4lb_librarySTL.cpp:262:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int j=1;j<graf[i].size();j++)
+                 ^
+../src/4lb_librarySTL.cpp:272:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int i=0;i<graf.size();i++)
+                 ^
+../src/4lb_librarySTL.cpp:277:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for (int j=1;j<graf[i].size();j++)
+                  ^
+../src/4lb_librarySTL.cpp:282:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int j=1; j<graf[i].size();j++)
+                    ^
+../src/4lb_librarySTL.cpp: In instantiation of ‘void Graf<T>::koledge() [with T = int]’:
+../src/4lb_librarySTL.cpp:112:27:   required from here
+../src/4lb_librarySTL.cpp:304:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0;i<graf.size();i++)
+                ^
+../src/4lb_librarySTL.cpp: In instantiation of ‘int Graf<T>::stepenvertex(T) [with T = int]’:
+../src/4lb_librarySTL.cpp:113:51:   required from here
+../src/4lb_librarySTL.cpp:316:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0;i<graf.size();i++)
+                ^
+../src/4lb_librarySTL.cpp:321:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int j=1;j<graf[i].size();j++)
+                 ^
+../src/4lb_librarySTL.cpp: In instantiation of ‘int Graf<T>::erasevertex(T) [with T = int]’:
+../src/4lb_librarySTL.cpp:114:51:   required from here
+../src/4lb_librarySTL.cpp:339:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0;i<graf.size();i++)
+                ^
+../src/4lb_librarySTL.cpp:344:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int j=1;j<graf[i].size();j++)
+                 ^
+../src/4lb_librarySTL.cpp:353:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int i=0;i<graf.size();i++)
+                 ^
+../src/4lb_librarySTL.cpp:358:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for (int j=1;j<graf[i].size();j++)
+                  ^
+../src/4lb_librarySTL.cpp:361:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for (int j=0;j<graf[i].size();j++)
+                  ^
+../src/4lb_librarySTL.cpp: In instantiation of ‘int Graf<T>::eraseedge(T, T) [with T = int]’:
+../src/4lb_librarySTL.cpp:115:58:   required from here
+../src/4lb_librarySTL.cpp:382:16: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+  for (int i=0;i<graf.size();i++)
+                ^
+../src/4lb_librarySTL.cpp:387:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int j=1;j<graf[i].size();j++)
+                 ^
+../src/4lb_librarySTL.cpp:397:17: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+   for (int i=0;i<graf.size();i++)
+                 ^
+../src/4lb_librarySTL.cpp:402:18: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+    for (int j=1;j<graf[i].size();j++)
+                  ^
+../src/4lb_librarySTL.cpp:407:20: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+     for (int j=0; j<graf[i].size();j++)
+                    ^
+../src/4lb_librarySTL.cpp: In instantiation of ‘bool Graf<T>::Node_Iterator::next() [with T = int]’:
+../src/4lb_librarySTL.cpp:131:29:   required from here
+../src/4lb_librarySTL.cpp:47:28: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+        if (gr->graf.size() <= index+1) return false;
+                            ^
+../src/4lb_librarySTL.cpp: In instantiation of ‘void Graf<T>::Node_Iterator::get() [with T = int]’:
+../src/4lb_librarySTL.cpp:133:23:   required from here
+../src/4lb_librarySTL.cpp:57:23: warning: comparison between signed and unsigned integer expressions [-Wsign-compare]
+        for (int i=1; i<gr->graf[index].size();i++)
+                       ^
+Finished building: ../src/4lb_librarySTL.cpp
+ 
+Building target: 4lb_librarySTL
+Invoking: Cross G++ Linker
+g++  -o "4lb_librarySTL"  ./src/4lb_librarySTL.o   
+Finished building target: 4lb_librarySTL
+ 
+
+20:37:02 Build Finished (took 418ms)
+

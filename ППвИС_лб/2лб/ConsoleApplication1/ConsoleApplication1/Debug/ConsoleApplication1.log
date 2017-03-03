@@ -1,0 +1,73 @@
+﻿  Source.cpp
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(8): error C2065: Guns: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(8): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "obj1"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(8): error C3861: obj1: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(10): error C2065: Guns: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(10): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "obj2"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(10): error C3861: obj2: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(12): error C2065: Guns: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(12): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "obj4"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(12): error C3861: obj4: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(14): error C2065: Guns: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(14): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "obj3"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(14): error C3861: obj3: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(16): error C2065: Pistols: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(16): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "objPistols1"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(16): error C3861: objPistols1: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(18): error C2065: Pistols: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(18): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "objPistols2"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(18): error C3861: objPistols2: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(20): error C2065: Pistols: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(20): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "objPistols3"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(20): error C3861: objPistols3: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(22): error C2065: AssaultRifles: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(22): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "objAssaultRifles1"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(22): error C3861: objAssaultRifles1: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(24): error C2065: AssaultRifles: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(24): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "objAssaultRifles2"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(24): error C3861: objAssaultRifles2: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(26): error C2065: AssaultRifles: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(26): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "objAssaultRifles3"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(26): error C3861: objAssaultRifles3: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(28): error C2065: SniperRifles: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(28): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "objSniperRifles1"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(28): error C3861: objSniperRifles1: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(30): error C2065: PistolsPulemets: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(30): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "objk"
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(30): error C3861: objk: идентификатор не найден
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(32): error C2065: obj1: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(32): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(32): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(34): error C2065: objPistols1: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(34): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(34): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(35): error C2065: objPistols2: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(35): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(35): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(36): error C2065: objPistols3: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(36): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(36): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(38): error C2065: obj2: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(38): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(38): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(40): error C2065: objAssaultRifles1: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(40): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(40): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(41): error C2065: objAssaultRifles2: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(41): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(41): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(42): error C2065: objAssaultRifles3: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(42): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(42): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(44): error C2065: obj4: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(44): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(44): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(46): error C2065: objk: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(46): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(46): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(48): error C2065: obj3: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(48): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(48): note: тип: unknown-type
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(50): error C2065: objSniperRifles1: необъявленный идентификатор
+d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(50): error C2228: выражение слева от ".show" должно представлять класс, структуру или объединение
+  d:\универ\лб\ппвис_лб\2лб\consoleapplication1\consoleapplication1\source.cpp(50): note: тип: unknown-type

@@ -1,0 +1,11 @@
+﻿  Source.cpp
+d:\универ\лб\аоис_лб\1лб\consoleapplication1\consoleapplication1\source.cpp(55): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\лб\аоис_лб\1лб\consoleapplication1\consoleapplication1\source.cpp(57): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\лб\аоис_лб\1лб\consoleapplication1\consoleapplication1\source.cpp(106): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\лб\аоис_лб\1лб\consoleapplication1\consoleapplication1\source.cpp(143): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\лб\аоис_лб\1лб\consoleapplication1\consoleapplication1\source.cpp(158): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\лб\аоис_лб\1лб\consoleapplication1\consoleapplication1\source.cpp(173): warning C4018: >: несоответствие типов со знаком и без знака
+d:\универ\лб\аоис_лб\1лб\consoleapplication1\consoleapplication1\source.cpp(916): warning C4018: <: несоответствие типов со знаком и без знака
+d:\универ\лб\аоис_лб\1лб\consoleapplication1\consoleapplication1\source.cpp(933): warning C4018: >: несоответствие типов со знаком и без знака
+  ConsoleApplication1.vcxproj -> D:\Универ\ЛБ\АОИС_лб\1лб\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\Универ\ЛБ\АОИС_лб\1лб\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

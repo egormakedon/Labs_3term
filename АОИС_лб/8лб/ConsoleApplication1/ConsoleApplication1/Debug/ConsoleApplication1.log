@@ -1,0 +1,9 @@
+﻿  Source.cpp
+d:\универ\лб\аоис_лб\8лб\consoleapplication1\consoleapplication1\source.cpp(167): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\универ\лб\аоис_лб\8лб\consoleapplication1\consoleapplication1\source.cpp(237): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\универ\лб\аоис_лб\8лб\consoleapplication1\consoleapplication1\source.cpp(238): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+d:\универ\лб\аоис_лб\8лб\consoleapplication1\consoleapplication1\source.cpp(333): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\универ\лб\аоис_лб\8лб\consoleapplication1\consoleapplication1\source.cpp(382): warning C4554: &: проверьте порядок применения операторов на наличие ошибки; для четкого задания порядка используйте скобки
+d:\универ\лб\аоис_лб\8лб\consoleapplication1\consoleapplication1\source.cpp(518): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  ConsoleApplication1.vcxproj -> D:\Универ\ЛБ\АОИС_лб\8лб\ConsoleApplication1\Debug\ConsoleApplication1.exe
+  ConsoleApplication1.vcxproj -> D:\Универ\ЛБ\АОИС_лб\8лб\ConsoleApplication1\Debug\ConsoleApplication1.pdb (Full PDB)

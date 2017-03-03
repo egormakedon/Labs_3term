@@ -1,0 +1,11 @@
+tochka => nrel_main_idtf:[точка](*<-lang_ru;;*);;
+tochka<-sc_node_not_relation;;
+
+pryamaya => nrel_main_idtf:[прямая](*<-lang_ru;;*);;
+pryamaya<-sc_node_not_relation;;
+
+radius => nrel_main_idtf:[радиус*](*<-lang_ru;;*);;
+radius<-sc_node_norole_relation;;
+
+perpen => nrel_main_idtf:[перпендикулярность*](*<-lang_ru;;*);;
+perpen<-sc_node_norole_relation;;

@@ -1,0 +1,20 @@
+predmet => nrel_main_idtf:[предмет](*<-lang_ru;;*);;
+predmet<-sc_node_not_relation;;
+
+student => nrel_main_idtf:[студент](*<-lang_ru;;*);;
+student <- sc_node_not_relation;;
+
+arnostotn => nrel_main_idtf:[арность отношения*](*<-lang_ru;;*);;
+arnostotn <- sc_node_norole_relation;;
+
+chislo => nrel_main_idtf:[число](*<-lang_ru;;*);;
+chislo <- sc_node_not_relation;;
+
+otnoshenie => nrel_main_idtf:[отношение](*<-lang_ru;;*);;
+otnoshenie <- sc_node_not_relation;;
+
+znaniya => nrel_main_idtf:[знания](*<-lang_ru;;*);;
+znaniya <- sc_node_not_relation;;
+
+matem => nrel_main_idtf:[Математика](*<-lang_ru;;*);;
+egor => nrel_main_idtf:[Егор](*<-lang_ru;;*);;

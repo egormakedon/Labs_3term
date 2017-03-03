@@ -1,0 +1,43 @@
+treangleABC => nrel_main_idtf:[Треугольник(A,B,C)](*<-lang_ru;;*);;
+PryamougTreangle => nrel_main_idtf:[прямоугольный треугольник](*<-lang_ru;;*);;
+treangle => nrel_main_idtf:[треугольник](*<-lang_ru;;*);;
+OkrOR => nrel_main_idtf:[Окружность(O,R)](*<-lang_ru;;*);;
+okrushnost => nrel_main_idtf:[окружность](*<-lang_ru;;*);;
+prygol => nrel_main_idtf:[прямой угол](*<-lang_ru;;*);;
+ygol => nrel_main_idtf:[угол](*<-lang_ru;;*);;
+otrezok => nrel_main_idtf:[отрезок](*<-lang_ru;;*);;
+
+PryamougTreangle<-sc_node_not_relation;;
+treangle<-sc_node_not_relation;;
+okrushnost<-sc_node_not_relation;;
+prygol<-sc_node_not_relation;;
+ygol<-sc_node_not_relation;;
+otrezok<-sc_node_not_relation;;
+
+vnygol => nrel_main_idtf:[внутренний угол*](*<-lang_ru;;*);;
+gipotenuza => nrel_main_idtf:[гипотенуза*](*<-lang_ru;;*);;
+prinadleshit => nrel_main_idtf:[включение*](*<-lang_ru;;*);;
+dlina => nrel_main_idtf:[длина*](*<-lang_ru;;*);;
+znachenie => nrel_main_idtf:[значение*](*<-lang_ru;;*);;
+sm => nrel_main_idtf:[см'](*<-lang_ru;;*);;
+katet => nrel_main_idtf:[катет*](*<-lang_ru;;*);;
+ymnoshenie => nrel_main_idtf:[произведение величин*](*<-lang_ru;;*);;
+diametr => nrel_main_idtf:[диаметр*](*<-lang_ru;;*);;
+vershina => nrel_main_idtf:[вершина угла*](*<-lang_ru;;*);;
+peresechenie => nrel_main_idtf:[пересечение*](*<-lang_ru;;*);;
+rasstoyanie => nrel_main_idtf:[расстояние*](*<-lang_ru;;*);;
+
+vnygol<-sc_node_norole_relation;;
+gipotenuza<-sc_node_norole_relation;;
+prinadleshit<-sc_node_norole_relation;;
+dlina<-sc_node_norole_relation;;
+znachenie<-sc_node_norole_relation;;
+sm<-sc_node_role_relation;;
+katet<-sc_node_norole_relation;;
+ymnoshenie<-sc_node_norole_relation;;
+diametr<-sc_node_norole_relation;;
+vershina<-sc_node_norole_relation;;
+peresechenie<-sc_node_norole_relation;;
+rasstoyanie<-sc_node_norole_relation;;
+
+
